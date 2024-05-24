@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## I'm an assistant professor in the Department of Accounting at Appalachian State University
+## I teach a class where we use Python for analytics
 <!--
 **zelaznylm/zelaznylm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
